@@ -1,0 +1,44 @@
+    1  VirtualBox --startvm XP
+    2  firefox
+    3  ls ls
+    4  ls la
+    5  ls -l
+    6  ls -la
+    7  Documents
+    8  Document
+    9  D
+   10  /Document
+   11  /Documents
+   12  ls -l
+   13  mkdir DMI
+   14  cd DMI/
+   15  ls -l
+   16  pwd
+   17  _ALI
+   18  /bin/sh
+   19  cd DMI
+   20  mainigais=10
+   21  echo $mainigais
+   22  mainigais1=20
+   23  echo $mainigais1
+   24  pwd
+   25  nano shell_programming.sh
+   26  ls -la
+   27  nano
+   28  ls -l
+   29  chmod 744 shell_programming.sh
+   30  mcdir shell programming.sh
+   31  mkdir shell programming
+   32  ls -la
+   33  mkdir shell_programming
+   34  shell_programming.sh
+   35  ls-la
+   36  ls -la
+   37  nano /shell_programming.sh
+   38  ls la
+   39  ls -la
+   40  /shell_programming.sh
+   41  ./shell_programming.sh
+   42  ls -la
+   43  pwd
+   44  history > history_20170927.txt
