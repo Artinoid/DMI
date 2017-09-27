@@ -42,3 +42,58 @@
    42  ls -la
    43  pwd
    44  history > history_20170927.txt
+   45  ls -la
+   46  rm nano.save 
+   47  ls -la
+   48  cd programming/
+   49  ls -la
+   50  cd ..
+   51  rmdir programming/ shell/ shell_programming/
+   52  ls -la
+   53  chmod 744 shell_programming.sh 
+   54  ls -la
+   55  cat shell_programming.sh 
+   56  ./shell_programming.sh 
+   57  ls -la
+   58  git init
+   59  git add .
+   60  git config --global user.email timarti-5@inbox.lv
+   61  git
+   62  git remote add origin https://github.com/Artinoid/DMI.git
+   63  git commit -m "20170927_10_10"
+   64  git push origin master
+   65  nano
+   66  ls -la
+   67  nano shell_rogramming.sh
+   68  chrome
+   69  crome
+   70  hrome
+   71  firefox
+   72  nano shelling
+   73  no git -upload
+   74  nano git -upload
+   75  nano
+   76  echo
+   77  echo $$
+   78  ls -la
+   79  echo $0
+   80  echo $$
+   81  who
+   82  echo $n
+   83  echo $#
+   84  echo $@
+   85  $!
+   86  echo $!
+   87  nano shell_programming
+   88  nano shell_progamming.sh
+   89  nano shell_programming.sh
+   90  shell_programming.sh
+   91  ./shell_programming.sh
+   92  nano shell_programming.sh
+   93  shell_programming
+   94  shell_programming.sh
+   95  ./shell_programming.sh
+   96  nano shell_programming.sh
+   97  github-upload
+   98  git-upload
+   99  history > history_20170927.txt
