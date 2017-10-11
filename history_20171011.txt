@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  clone https://github.com/Artinoid/2017_04_10
+    3  clone https://github.com/Artinoid/2017_09/27
+    4  clone https://github.com/Artinoid/2017_09_27
+    5  git clone https://github.com/Artinoid/DMI.git
+    6  ls -l\
+    7  ls -l
+    8  cd DMI
+    9  ls -l
+   10  mkdir shell_operators.sh
+   11  mkdir /DMI?shell_operators
+   12  /DMI/shell_operators
+   13  cd shell_operators
+   14  cd: shell_operators.sh
+   15  cd shell_operators.sh
+   16  bin/sh
+   17  val='expr 2 +2'
+   18  echo "Total value : $val"
+   19  val= 'expr 2 + 2'
+   20  val='expr 2 +2'
+   21  echo "Total value : $val
+   22  echo "Total value : $val"
+   23  expr
+   24  val='expr 2 + 2'`
+   25  nano
+   26  nano shell.operators.sh\
+   27  nano shell.operators.sh
+   28  ./shell.operators.sh
+   29  chmod 744 shell.operators.sh 
+   30  ./shell.operators.sh
+   31  nano shell.operators.sh
+   32  ./shell.operators.sh
+   33  nano shell.operators.sh
+   34  ./shell.operators.sh
+   35  nano shell.operators.sh
+   36  DMI
+   37  /DMI
+   38  nano git-upload
+   39  nano shell.operators.sh git-upload
+   40  nano  git-upload
+   41  ls -la
+   42  cd ..
+   43  ls -l;a
+   44  ls -la
+   45  mv shell_operators.sh/shell.operators.sh ./
+   46  ls -la
+   47  cd shell_operators.sh/
+   48  ls -la
+   49  cd ..
+   50  rmdir shell_operators.sh/
+   51  ls -la
+   52  mv shell.operators.sh shell_operators.sh 
+   53  ls -la
+   54  nano git-upload 
+   55  history > history_20171011.txt 
