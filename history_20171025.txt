@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Artinoid/DMI.git
+    3  ls la
+    4  ls -l
+    5  cd DMI
+    6  ls -l
+    7  nano if_C02.sh
+    8  nano if_CO2.sh
+    9  chmod_if_CO2.sh
+   10  chmod if_CO2.sh
+   11  nano if_CO2.sh
+   12  ./if_CO2.sh
+   13  chmod 744 if_CO2.sh
+   14  ./if_CO2.sh
+   15  ls -la
+   16  nano if_CO2.sh
+   17  cat /.if_CO2.sh
+   18  #!/bin/bash
+   19  a=$1
+   20  #if (()) ... f1
+   21  #if (()) ... elif (()) ... else ..if
+   22  if (( $a > 0 )); then then
+   23  elif (( $a == 0 )); then
+   24  else 
+   25  fi
+   26  cat if_CO2.sh
+   27  nano
+   28  chmod 744 array_hoop.sh
+   29  ls -la
+   30  chmod 744 array_loop.sh
+   31  nano arry_loop.sh
+   32  nano array_loop.sh
+   33  ./array_loop.sh 10 89
+   34  nano array_loop.sh
+   35  ./array_loop.sh 10 89
+   36  history > history_20171025.txt
