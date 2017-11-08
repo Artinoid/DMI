@@ -1,0 +1,69 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Artinoid/DMI.git
+    3  cd DMI
+    4  mkdir PYTHON
+    5  cd PYTHON
+    6  nano
+    7  ls -l
+    8  chmod 744 hello_C02
+    9  chmod 744 hello_02
+   10  ./hello_C02
+   11  ./hello_02
+   12  nano hello_02
+   13  ./hello_02
+   14  nano hello_02
+   15  ./hello_o2
+   16  ./hello_02
+   17  nano hello_02
+   18  ./hello_02
+   19  nano hello_02
+   20  ./hello_02
+   21  nano hello_02
+   22  ./hello_02
+   23  nano hello_02
+   24  ./ hello_02
+   25  ./hello_02
+   26  nano hello_02
+   27  ./ hello_02
+   28  ./hello_02
+   29  nano hello_02
+   30  ./hello_02
+   31  nano hello_02
+   32  ./hello_02
+   33  nano
+   34  ls -l
+   35  chmod 744 variables_02.py
+   36  ./variables_02.py
+   37  nano variables_02.py
+   38  ./variables_02
+   39  ./variables_02py
+   40  ./variables.py
+   41  ./variavles_02.py
+   42  ./variables_02.py
+   43  nano variables_02.py
+   44  ./variables_02.py
+   45  nano variables_02.py
+   46  ./variables_02.py
+   47  nano variables_02
+   48  nano variables_02.py
+   49  ./variables_02.py
+   50  nano variables_02.py
+   51  ./variables_02.py
+   52  nano variables_02.py
+   53  nano
+   54  chmod 744 dialogs_02.py
+   55  ./dialogs_02.py
+   56  nano dialogs_02.py
+   57  ./dialogs_02.py
+   58  nano dialogs_02.py
+   59  ./dialogs_02.py
+   60  nano dialogs_02.py
+   61  nano
+   62  chmod 744 if.py
+   63  nano if.py
+   64  python if.py
+   65  idle
+   66  pwd
+   67  cd DMI
+   68  cd ..
+   69  history > history_20171108.txt
