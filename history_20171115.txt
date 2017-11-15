@@ -1,0 +1,26 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Artinoid/DMI
+    3  cd python
+    4  cd DMI
+    5  ls la
+    6  ls
+    7  cd PYTHON
+    8  nano
+    9  python sin_caur_summu.py
+   10  ls
+   11  nano sin_caur_summu.py
+   12  python sin_caur_summu.py
+   13  nano sin_caur_summu.py
+   14  cp sin_caur_summu.py sin_caur_summu.py sin_caur_summu.py
+   15  cp sin_caur_summu.py sin_caur_summu.py sin_caur_summu_ver2.py
+   16  ls -l
+   17  mv sin_caur_summu.py sin_caur_summu_ver1.py 
+   18  ls -l
+   19  cp sin_caur_summu_ver1.py sin_caur_summu_ver2.py 
+   20  ls -l
+   21  nano sin_caur_summu_ver2.py 
+   22  cd DMI
+   23  cd:
+   24  cd..
+   25  cd ..
+   26  history > history_20171115.txt
