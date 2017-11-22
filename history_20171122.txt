@@ -1,0 +1,39 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Artinoid/DMI
+    3  cd DMI
+    4  ls la
+    5  ls
+    6  ls -l
+    7  \cd PYTHON
+    8  ls -l
+    9  cp sin_caur_summu_ver2.py cp_caur_summu_ver3.py
+   10  nano cp_caur_summu_ver3.py
+   11  python cp_caur_summu_ver3.py
+   12  nano cp_caur_summu_ver3.py
+   13  python cp_caur_summu_ver3.py
+   14  nano cp_caur_summu_ver3.py
+   15  python cp_caur_summu_ver3.py
+   16  nano cp_caur_summu_ver3.py
+   17  cp cp_caur_summu_ver3.py cp_cau_summu_ver4.py
+   18* cp cp_cau_summu_ver4.py 
+   19  cp cp_caur_summu_ver4.py cp_cau_summu_ver5.py
+   20  cp cp_cau_summu_ver4.py cp_caur_summu_ver5.py
+   21  cp_caur_summu_ver5.py
+   22  nano cp_caur_summu_ver5.py
+   23  cp cp_caur_summu_ver5.py sin_caur_summu.py
+   24  nano sin_caur_summu.py
+   25  git-upload
+   26  git_upload
+   27  cd DMI
+   28  cd..
+   29  cd ..
+   30  git-upload
+   31  history > history
+   32  ls
+   33  git-upload
+   34  nano git-upload
+   35  git-upload
+   36  nano git-upload
+   37  git_upload
+   38  git-upload
+   39  history > history_20171122.txt
