@@ -1,0 +1,16 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/Artinoid/DMI
+    3  cd DMI
+    4  cd PYTHON
+    5  idle
+    6  ls-l
+    7  ls -l
+    8  nano
+    9  idle
+   10  history >history_20171129_CO2.txt
+   11  ./git-upload 20171129_11_55
+   12  ./git-upload DMI
+   13  git_upload DMI
+   14  ./git_upload DMI
+   15  cd ..
+   16  history > history_20171129_CO2.txt
