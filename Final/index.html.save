@@ -19,7 +19,7 @@
     <pre>Uzdevuma galvenais mērķis ir iemācīties lietot skaitļu masībus un sarežģītākus ciklus. Pēc uzdevuma izpildes studentam rodas ieskats kā izmantot shell valodu, lai veidotu vienkāršas programmas skaitļošanas uzdevumu risināšanai.</pre>
    <h6>Attēls(i) ar rezultātiem</h6>
     <a href="https://github.com/Artinoid/DMI/blob/master/statistika">
-    <img src="https://github.com/Artinoid/DMI/blob/master/picturel.png?raw=true">
+    <img src="...">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
 
@@ -33,7 +33,7 @@
     <pre>Uzdevuma galvenais mērķis ir iemācīties ievades nolasi un pareizu izvades sintaksi. Pēc uzdevuma izpildes studentam rodas ieskats kā iegūt datus no lietotāja un izvadīt apstrādātus datus vizuāli lasāmā veidā</pre>
    <h6>Attēls(i) ar rezultātiem</h6>
     <a href="https://github.com/Artinoid/DMI/blob/master/Main%C4%ABgie">
-    <img src="https://github.com/Artinoid/DMI/blob/master/picture2.png?raw=true">
+    <img src="...">
     </a>
     <pre>Nospiežot uz attēla var pāriet uz uzdevuma kodu github'ā (klases darbs)</pre>
 
@@ -143,17 +143,17 @@
     <li><a href="...">mācību nedēļa (04.09 - 08.09)</a></li>
     <li><a href="...">mācību nedēļa (11.09 - 15.09)</a></li>
     <li><a href="...">mācību nedēļa (18.09 - 22.09)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20170927.txt">mācību nedēļa (05.09 - 30.09)</a></li>
+    <li><a href="...">mācību nedēļa (25.09 - 29.09)</a></li>
     <li><a href="...">mācību nedēļa (02.10 - 06.10)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171011.txt">mācību nedēļa (09.10 - 14.10)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171018.txt">mācību nedēļa (17.10 - 21.10)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171025.txt">mācību nedēļa (23.10 - 28.10)</a></li>
+    <li><a href="...">mācību nedēļa (09.10 - 13.10)</a></li>
+    <li><a href="...">mācību nedēļa (16.10 - 20.10)</a></li>
+    <li><a href="...">mācību nedēļa (23.10 - 27.10)</a></li>
     <li><a href="...">mācību nedēļa (30.10 - 03.11)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171108.txt">mācību nedēļa (06.11 - 11.11)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171115.txt">mācību nedēļa (14.11 - 19.11)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171122.txt">mācību nedēļa (22.11 - 27.11)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171129_CO2.txt">mācību nedēļa (30.11 - 03.12)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/history_20171206_CO2.txt">mācību nedēļa (05.12 - 10.12)</a></li>
+    <li><a href="...">mācību nedēļa (06.11 - 10.11)</a></li>
+    <li><a href="...">mācību nedēļa (13.11 - 17.11)</a></li>
+    <li><a href="...">mācību nedēļa (21.11 - 24.11)</a></li>
+    <li><a href="...">mācību nedēļa (27.11 - 01.12)</a></li>
+    <li><a href="...">mācību nedēļa (04.12 - 08.12)</a></li>
     <li><a href="...">mācību nedēļa (11.12 - 15.12)</a></li>
     <li><a href="...">mācību nedēļa (18.12 - 22.12)</a></li>
    </ol>
@@ -168,10 +168,12 @@
     <li>shell: pieslēgšanas citai darba stacijai (citam serverim) - ssh</li>
     <li>shell: darbības ar failu sistēmas objektiem (failiem, mapēm)</li>
      <ul>
-      <li>mkdir - rada mapi</li>
-      <li>rmdir - dzēš mapi</li>
-      <li>rm - dzēš failu</li>
-      <li>mv - maina vietu, var manit vardu</li>
+     <a 
+      <li>mkdir -rada mapi</li>
+      <li>rmdir -dzes mapi</li>
+      <li>rm - dzes failu</li>
+      <li>mv - maina vietu, var mainit vardu</li>
+
      </ul>
     <li>shell: darbības ar git'u</li>
      <ul>
@@ -189,18 +191,18 @@
     <li><a href="https://github.com/Artinoid/DMI/blob/master/shell_operators.sh">shell: operācijas</a></li>
     <li><a href="https://github.com/Artinoid/DMI/blob/master/shell_operators.sh">shell: nosacījuma operators</a></li>
     <li><a href="https://github.com/Artinoid/DMI/blob/master/shell_operators.sh">shell: cikla operators</a></li>
-    <li>Python: Python interpretatora atrašanas vieta - ...</li>
-    <li>Python: vide ērtam darbam ar Python'u - ...</li>
+    <li>Python: Python interpretatora atrašanas vieta - -usr/bin/python</li>
+    <li>Python: vide ērtam darbam ar Python'u - "idle", PyCharm, PyDev,Spyder. Teksta editori - VIM,emacs</li>
     <li>Python: Python skripta(u) piemērs(i)</li>
      <ul>
-      <li><a href="...">Python: skripta neliels apraksts - Skripts iegūst datus no lietotāja, analizē to veidu - izvada to un uzzīmē arktangensa grafiku no šīs vērtibas</a></li>
+      <li><a href="...">Python: skripta neliels apraksts - ...</a></li>
      </ul>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/PYTHON/variables_02.py">Python: mainīgie</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/PYTHON/dialogs_02.py">Python: datu ievade/izvade</a></li>
+    <li><a href="...">Python: mainīgie</a></li>
+    <li><a href="...">Python: datu ievade/izvade</a></li>
     <li><a href="...">Python: operācijas</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/PYTHON/if.py">Python: nosacījuma operators</a></li>
+    <li><a href="...">Python: nosacījuma operators</a></li>
     <li><a href="...">Python: cikla operators(i)</a></li>
-    <li><a href="https://github.com/Artinoid/DMI/blob/master/PYTHON/cp_cau_summu_ver4.py">Python: lietotāja funkcija</a></li>
+    <li><a href="...">Python: lietotāja funkcija</a></li>
     <li><a href="...">Python: masīvs</a></li>
     <li><a href="...">Python: darbs ar failiem</a></li>
    </ul>
